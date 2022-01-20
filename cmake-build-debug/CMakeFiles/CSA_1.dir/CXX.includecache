@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/CLionProjects/CSA_1/Headers/container.h
+language.h
+/mnt/c/CLionProjects/CSA_1/Headers/language.h
+
+/mnt/c/CLionProjects/CSA_1/Headers/functional.h
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/c/CLionProjects/CSA_1/Headers/language.h
+procedural.h
+/mnt/c/CLionProjects/CSA_1/Headers/procedural.h
+objectoriented.h
+/mnt/c/CLionProjects/CSA_1/Headers/objectoriented.h
+functional.h
+/mnt/c/CLionProjects/CSA_1/Headers/functional.h
+
+/mnt/c/CLionProjects/CSA_1/Headers/objectoriented.h
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/c/CLionProjects/CSA_1/Headers/procedural.h
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/c/CLionProjects/CSA_1/Sources/main.cpp
+string.h
+-
+time.h
+-
+../Headers/container.h
+/mnt/c/CLionProjects/CSA_1/Headers/container.h
+
