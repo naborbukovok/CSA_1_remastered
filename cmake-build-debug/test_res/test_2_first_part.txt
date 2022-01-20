@@ -1,0 +1,39 @@
+Container:
+There are 6 elements in container:
+0: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+1: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+2: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+3: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+4: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+5: OBJECTORIENTED.
+Inheritance: interface,
+Name: objectlanguagelong,
+Popularity: 0.330000,
+Year: 1945,
+Special parameter (year / name length): 108.055556.

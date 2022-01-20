@@ -1,0 +1,622 @@
+Container:
+There are 100 elements in container:
+0: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+1: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+2: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+3: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+4: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+5: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+6: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+7: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+8: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+9: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+10: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+11: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+12: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+13: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+14: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+15: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+16: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+17: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+18: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+19: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+20: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+21: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+22: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+23: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+24: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+25: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+26: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+27: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+28: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+29: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+30: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+31: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+32: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+33: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+34: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+35: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+36: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+37: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+38: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+39: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+40: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+41: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+42: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+43: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+44: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+45: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+46: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+47: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+48: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+49: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+50: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+51: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+52: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+53: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+54: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+55: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+56: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+57: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+58: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+59: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+60: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+61: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+62: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+63: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+64: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+65: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+66: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+67: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+68: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+69: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+70: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+71: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+72: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+73: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+74: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+75: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+76: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+77: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+78: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+79: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+80: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+81: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+82: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+83: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+84: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+85: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+86: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+87: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+88: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+89: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+90: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+91: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+92: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+93: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+94: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.
+95: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 100.000000,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+96: FUNCTIONAL.
+Type: dynamic,
+Supports lazy evaluation: 1,
+Name: funclanguage,
+Popularity: 58.000000,
+Year: 2000,
+Special parameter (year / name length): 166.666667.
+97: PROCEDURAL.
+Has abstract data types: 0,
+Name: proc,
+Popularity: 100.000000,
+Year: 2022,
+Special parameter (year / name length): 505.500000.
+98: OBJECTORIENTED.
+Inheritance: multiple,
+Name: object,
+Popularity: 14.000000,
+Year: 1987,
+Special parameter (year / name length): 331.166667.
+99: PROCEDURAL.
+Has abstract data types: 1,
+Name: procedural,
+Popularity: 58.000000,
+Year: 1950,
+Special parameter (year / name length): 195.000000.

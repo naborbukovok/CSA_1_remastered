@@ -1,0 +1,21 @@
+Container with swapped elements:
+There are 3 elements in container:
+0: PROCEDURAL.
+Has abstract data types: 0,
+Name: procedurallang,
+Popularity: 92.834489,
+Year: 2020,
+Special parameter (year / name length): 144.285714.
+1: FUNCTIONAL.
+Type: static,
+Supports lazy evaluation: 1,
+Name: procedurallanguage,
+Popularity: 9.000000,
+Year: 2000,
+Special parameter (year / name length): 111.111111.
+2: OBJECTORIENTED.
+Inheritance: interface,
+Name: objectl,
+Popularity: 0.330000,
+Year: 1980,
+Special parameter (year / name length): 282.857143.
